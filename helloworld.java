@@ -3,6 +3,8 @@ class Simple{
      System.out.println("Hello batch25 team");
       System.out.println("Hello Batch batch25 WITH FOR STUDENTS RUNNING in front of ankur and raj and added the CI configuration in front of shub and archana");
        System.out.println("Job started ");
+       System.out.println("Enail Send with feedback");
+        
         
     }  
 } 
